@@ -1,0 +1,37 @@
+[
+  {
+    "id": "A1",
+    "response": "Here's a concise explanation of each offensive pre-snap formation term, **all of which fall under the \"empty\" category** (meaning **no running backs** are in the backfield\u2014only the quarterback and receivers). These terms describe variations in receiver alignment and count:\n\n1. **EMPTY**  \n   - **General term**: Any formation with **no running backs** (QB + 4\u20135 receivers).  \n   - **Look**: QB in shotgun or under center, with all players as receivers (e.g., 3 WRs + 1 TE + 1 WR split out).  \n   - *Example*: QB in shotgun, 4 WRs spread wide, 1 TE in the slot.\n\n2. **TRIO**  \n   - **Meaning**: **Three receivers** (typically 1 TE + 2 WRs).  \n   - **Look**: QB in shotgun, with **one tight end** and **two wide receivers** (e.g., TE on left, WRs split wide).  \n   - *Note*: Less common than \"empty\" with 4+ receivers; often used for specific play calls.\n\n3. **DOUBLES**  \n   - **Meaning**: **Not standard**\u2014likely a misnomer or confusion.  \n   - **Clarification**:  \n     - *If intended*: Could refer to **two receivers on one side** (e.g., 2 WRs stacked left, 1 WR right).  \n     - *Reality*: \"Doubles\" isn\u2019t a recognized term for empty formations. It may stem from \"double\" (e.g., two RBs), but **empty sets have no RBs**.  \n   - *Avoid using this term*\u2014it\u2019s probably a mistake.\n\n4. **TREY**  \n   - **Meaning**: **Three receivers** (identical to \"TRIO\").  \n   - **Look**: Same as TRIO\u2014QB in shotgun, with **1 TE + 2 WRs** (or 3 WRs).  \n   - *Note*: \"Trey\" is a common synonym for \"trio\" in football jargon (e.g., \"Trey formation\" = 3 receivers).\n\n5. **TANK**  \n   - **Meaning**: **QB in shotgun with receivers spread wide** (often 1 TE + 2 WRs).  \n   - **Look**: QB in shotgun, **receivers spread horizontally** (e.g., TE on left, 2 WRs split wide right, 1 WR deep).  \n   - *Key feature*: Designed for **vertical passing** (e.g., deep routes to the split WR).  \n   - *Example*: QB in shotgun, TE left, WRs right (split 5\u201310 yards), WR deep left.\n\n---\n\n### Key Takeaway:\n- **All are \"empty\" formations** (no RBs).  \n- **TRIO/TREY** = 3 receivers (TE + 2 WRs).  \n- **TANK** = Spread-out receivers for deep passing.  \n- **DOUBLES** is not standard\u2014likely an error.  \n- *Why these terms?* Coaches use them to describe **receiver count/alignment** for specific plays (e.g., \"Trey\" for short passes, \"Tank\" for deep shots).  \n\n*Source: Standard NFL/college football terminology (e.g., \"Trey\" from the 1990s, \"Tank\" from modern spread offenses).*",
+    "correct": null
+  },
+  {
+    "id": "A2",
+    "response": "EMPTY",
+    "correct": true
+  },
+  {
+    "id": "A3",
+    "response": "In American football, the formations \"DOUBLES\" and \"TANK\" are known to use tight ends or fullbacks.\n\n- \"DOUBLES\" refers to a formation with two tight ends, which is commonly used to create a strong running game or pass protection.\n- \"TANK\" is a reference to the \"T-formation,\" which includes a fullback positioned behind the quarterback, making it a key component of the formation.\n\nThe other options do not specifically use tight ends or fullbacks in the same context:\n- \"EMPTY\" typically denotes an empty backfield (no running backs), but it may still include tight ends on the line of scrimmage; however, it is not primarily defined by the use of tight ends or fullbacks.\n- \"TRIO\" and \"TREY\" both refer to formations with three players in the backfield, which could include fullbacks, but they are less standard and not specifically associated with tight ends or fullbacks in the same way as \"DOUBLES\" and \"TANK.\"\n\nThus, the correct choices are \"DOUBLES\" and \"TANK\".\n\nDOUBLES,TANK",
+    "correct": false
+  },
+  {
+    "id": "A4",
+    "response": "TREY",
+    "correct": false
+  },
+  {
+    "id": "A5",
+    "response": "DOUBLES",
+    "correct": true
+  },
+  {
+    "id": "A6",
+    "response": "The key structural difference is the **receiver alignment**:  \n- **TRIO** features **three wide receivers** split horizontally across the formation, all positioned far from the line of scrimmage.  \n- **TREY** uses **two wide receivers** plus **one slot receiver** (positioned closer to the line of scrimmage, between the outside receiver and the offensive tackle).  \n\nThis distinction alters blocking schemes and defensive coverage responsibilities.",
+    "correct": null
+  },
+  {
+    "id": "A7",
+    "response": "The **Double T** formation features two running backs aligned side-by-side directly behind the quarterback, creating a \"double\" backfield. In contrast, the **T-Formation** (often misstated as \"TANK\") has one running back positioned directly behind the quarterback, with the other two backs offset to the sides (e.g., one halfback and one fullback). This structural difference in backfield alignment fundamentally alters blocking schemes and play options.",
+    "correct": null
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "A1",
+    "response": "In American football, pre-snap formations are defined by how the wide receivers are distributed around the formation. Here is a breakdown of the five requested formations:\n\n### 1. EMPTY\n*   **What it looks like:** The backfield contains zero running backs. All available skill players (wide receivers and tight ends) are split out wide, leaving the quarterback alone in the backfield.\n*   **How it is typically used:** This is a pass-heavy formation. Because there is no running back to provide \"pass protection\" (blocking), the quarterback has less security against blitzes. However, it is used to force the defense to spread out horizontally, creating more space in the middle of the field and making it harder for the defense to disguise blitzes.\n\n### 2. DOUBLES (also known as \"2x2\")\n*   **What it looks like:** The receivers are split evenly on both sides of the formation. There is one receiver on the left and one on the right (often with a tight end on one side, making it 2 vs 2).\n*   **How it is typically used:** This is a balanced formation. It is the \"bread and butter\" of modern football because it prevents the defense from overloading one side of the field. It allows an offense to run or pass toward either side of the field with equal spacing, making it difficult for the defense to predict the direction of the play.\n\n### 3. TRIO (also known as \"3x1\")\n*   **What it looks like:** Three receivers are grouped on one side of the formation (the \"trips\" side), while only one receiver is on the opposite side (the \"singleton\" side).\n*   **How it is typically used:** This is an asymmetrical formation used to create an \"overload.\" By putting three players on one side, the offense forces the defense to shift its coverage to that side. This often creates a \"one-on-one\" matchup for the lone receiver on the weak side, or it allows the offense to run quick-hitting passing routes against a crowded secondary.\n\n### 4. TREY\n*   **What it looks like:** A specific variation of the Trio formation. While \"Trio\" refers to the number of players, \"Trey\" specifically refers to a formation where the three receivers are spread out in a way that creates three distinct vertical/horizontal threats (often including a Tight End).\n*   **How it is typically used:** It is used to manipulate the \"flat\" (the area near the sidelines). By having three players on one side, the offense can run \"flood\" concepts, where one player runs a short route, one medium, and one deep. This forces the defenders to cover three different levels of the field simultaneously, often leading to open passing lanes.\n\n### 5. TANK (or \"Heavy\")\n*   **What it looks like:** This is a \"compressed\" or \"heavy\" formation. Instead of receivers being spread wide, multiple players (often Tight Ends or extra Linemen) are placed close to the line of scrimmage or in \"attached\" positions near the tackles.\n*   **How it is typically used:** This is a run-heavy formation. The goal is \"power\" and \"mass.\" By bringing extra players closer to the line, the offense increases its blocking strength to overwhelm the defensive line. It is used in short-yardage situations (like 4th and 1) or when an offense wants to physically wear down a defense throughout a game.",
+    "correct": null
+  },
+  {
+    "id": "A2",
+    "response": "EMPTY",
+    "correct": true
+  },
+  {
+    "id": "A3",
+    "response": "DOUBLES,TREY",
+    "correct": false
+  },
+  {
+    "id": "A4",
+    "response": "The correct answer is **TREY**.\n\nIn football terminology, \"Trey\" refers to a formation where three wide receivers are aligned to one side of the formation (typically a \"trips\" look), while the rest of the formation is balanced or weighted to the opposite side.",
+    "correct": false
+  },
+  {
+    "id": "A5",
+    "response": "The correct answer is **DOUBLES**.\n\nHere is a breakdown of why:\n\n*   **DOUBLES:** In this formation, there are two wide receivers lined up on the left side and two wide receivers lined up on the right side (often referred to as \"2x2\"-personnel or \"doubles\" sets).\n*   **EMPTY:** This refers to a formation with no running backs in the backfield, but it does not specify the distribution of receivers (it could be 3x2 or 4x1).\n*   **TRIO:** This typically refers to a \"3x1\" formation, where there are three receivers on one side and only one on the other.\n*   **TREY:** This is another term for a \"3x1\" formation, specifically naming the side with three receivers (the \"Trey\" side).\n*   **TANK:** This is not a standard term for a pre-snap wide receiver distribution in American football.",
+    "correct": true
+  },
+  {
+    "id": "A6",
+    "response": "The key structural difference lies in the alignment of the receivers relative to the offensive line. In a **TREY** formation, three receivers are aligned to one side of the formation, typically with two wide receivers and one tight end. In a **TRIO** formation, the three receivers are split out wide, often creating more horizontal spacing by moving the third receiver away from the line of scrimmage.",
+    "correct": null
+  },
+  {
+    "id": "A7",
+    "response": "The key structural difference lies in the alignment and number of players positioned on the line of scrimmage. In a **Doubles** formation, there are two wide receivers positioned on each side of the formation, while a **Tank** formation typically utilizes a more condensed or unbalanced structure, often characterized by a specific number of tight ends or a heavy personnel grouping designed to overwhelm the interior defense.",
+    "correct": null
+  }
+]

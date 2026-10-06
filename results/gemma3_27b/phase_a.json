@@ -1,0 +1,37 @@
+[
+  {
+    "id": "A1",
+    "response": "Okay, here's a breakdown of those offensive formations in American football, explained briefly with what you'd typically see pre-snap:\n\n**1. EMPTY:**\n\n*   **Look:** No running back lined up in the backfield. All five eligible receivers are split out wide.\n*   **Personnel:** Usually 5 wide receivers (WR) or 4 WR and 1 tight end (TE).\n*   **Purpose:**  Maximizes passing options, forces the defense to cover a lot of ground, and can create quick passing lanes.  Very vulnerable to the run, so rarely used in obvious running situations.\n\n**2. TRIO:**\n\n*   **Look:** Three receivers split out wide, one tight end, and one running back.\n*   **Personnel:** 3 WR, 1 TE, 1 RB.\n*   **Purpose:** A balanced formation. Offers both passing and running threats. The tight end can block or be a receiving threat, and the running back provides a run option.\n\n**3. DOUBLES:**\n\n*   **Look:** Two receivers split out wide, two tight ends, and one running back.\n*   **Personnel:** 2 WR, 2 TE, 1 RB.\n*   **Purpose:**  A run-heavy formation. The two tight ends provide extra blocking at the point of attack. Can still pass, but the emphasis is on establishing the run.  Often used in short-yardage or goal-line situations.\n\n**4. TREY:**\n\n*   **Look:** Three receivers split out wide, one running back, and one offensive lineman acting as an eligible receiver (often a tackle or guard reporting as eligible).\n*   **Personnel:** 3 WR, 1 RB, 1 OL (reporting as eligible).\n*   **Purpose:** Creates confusion for the defense. The extra eligible lineman can block or be a receiving threat, adding a wrinkle to blocking schemes and pass routes.  Can be used to overload one side of the defense.\n\n**5. TANK (also known as Heavy/Jumbo):**\n\n*   **Look:** Typically features a very heavy formation with multiple tight ends and/or offensive linemen reporting as eligible receivers, and a fullback. Often only 2 or even 1 wide receiver.\n*   **Personnel:** 1-2 WR, 2-3 TE/OL (as eligible receivers), 1 RB, 1 FB.\n*   **Purpose:**  Pure run-blocking power. Designed to overwhelm the defense with size and strength.  Used in short-yardage, goal-line, or when a team *needs* to run the ball. Passing is rarely a priority.\n\n\n\n**Important Note:** These are *basic* descriptions.  Teams will often add variations and motions within these formations to create further confusion and exploit defensive weaknesses.",
+    "correct": null
+  },
+  {
+    "id": "A2",
+    "response": "EMPTY",
+    "correct": true
+  },
+  {
+    "id": "A3",
+    "response": "TANK, TREY\n\n\n\nHere's why:\n\n* **TANK:** Typically features a fullback and often two tight ends, emphasizing a power running game.\n* **TREY:** Commonly uses a tight end as a third receiver alongside two wide receivers, and often includes a fullback as a lead blocker.\n\nLet's look at why the others don't typically use those positions:\n\n* **EMPTY:** No backs or tight ends are on the field \u2013 all receivers.\n* **DOUBLES:** Features two wide receivers and no tight ends or fullbacks.\n* **TRIO:** Features three wide receivers and no tight ends or fullbacks.",
+    "correct": true
+  },
+  {
+    "id": "A4",
+    "response": "TREY",
+    "correct": false
+  },
+  {
+    "id": "A5",
+    "response": "DOUBLES",
+    "correct": true
+  },
+  {
+    "id": "A6",
+    "response": "The key difference between the Trio and Trey offensive formations lies in the tight end alignment. In **Trio**, there are *three* tight ends lined up on the same side of the formation, typically creating a powerful run-blocking side. Conversely, **Trey** utilizes *three* receivers on one side, sacrificing a tight end for more passing threats and spread-out coverage, though it can still support the run.",
+    "correct": null
+  },
+  {
+    "id": "A7",
+    "response": "The key difference between Doubles and Tank formations lies in the tight end positioning. In **Doubles**, both tight ends line up on the same side of the formation, creating a strong side for run or pass plays, while in **Tank**, the tight ends split out to *opposite* sides of the offensive line, essentially acting as extra tackles to bolster pass protection and create running lanes on both sides. This split positioning in Tank makes it more balanced, whereas Doubles heavily favors one side of the field.",
+    "correct": null
+  }
+]

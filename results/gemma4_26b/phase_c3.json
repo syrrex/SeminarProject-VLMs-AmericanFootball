@@ -1,0 +1,362 @@
+[
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game1_Wide---Clip-004_t14.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "EMPTY",
+    "predicted": "EMPTY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game1_Wide---Clip-023_t10.jpg",
+    "ground_truth": "EMPTY",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game1_Wide---Clip-053_t0.jpg",
+    "ground_truth": "DOUBLES",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game1_Wide---Clip-093_t1.jpg",
+    "ground_truth": "TREY",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game1_Wide---Clip-110_t1.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game1_Wide---Clip-119_t4.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game1_Wide---Clip-008_t12.jpg",
+    "ground_truth": "EMPTY",
+    "raw_response": "TANK",
+    "predicted": "TANK",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game1_Wide---Clip-123_t3.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": true
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game1_Wide---Clip-068_t0.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "TANK",
+    "predicted": "TANK",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game1_Wide---Clip-096_t1.jpg",
+    "ground_truth": "TREY",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game2_Wide---Clip-003_t2.jpg",
+    "ground_truth": "DOUBLES",
+    "raw_response": "DOUBLES",
+    "predicted": "DOUBLES",
+    "correct": true
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game2_Wide---Clip-009_t1.jpg",
+    "ground_truth": "TREY",
+    "raw_response": "DOUBLES",
+    "predicted": "DOUBLES",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game2_Wide---Clip-020_t6.jpg",
+    "ground_truth": "EMPTY",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game2_Wide---Clip-030_t0.jpg",
+    "ground_truth": "TANK",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game2_Wide---Clip-046_t7.jpg",
+    "ground_truth": "EMPTY",
+    "raw_response": "DOUBLES",
+    "predicted": "DOUBLES",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game2_Wide---Clip-072_t5.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": true
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game2_Wide---Clip-124_t4.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "EMPTY",
+    "predicted": "EMPTY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game2_Wide---Clip-133_t1.jpg",
+    "ground_truth": "DOUBLES",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game2_Wide---Clip-151_t7.jpg",
+    "ground_truth": "DOUBLES",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game2_Wide---Clip-157_t9.jpg",
+    "ground_truth": "TREY",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": true
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game3_Wide---Clip-006_t8.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "DOUBLES",
+    "predicted": "DOUBLES",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game3_Wide---Clip-011_t9.jpg",
+    "ground_truth": "DOUBLES",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game3_Wide---Clip-019_t2.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": true
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game3_Wide---Clip-084_t7.jpg",
+    "ground_truth": "DOUBLES",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game3_Wide---Clip-091_t1.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": true
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game3_Wide---Clip-103_t2.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "TANK",
+    "predicted": "TANK",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game3_Wide---Clip-055_t0.jpg",
+    "ground_truth": "EMPTY",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game3_Wide---Clip-119_t2.jpg",
+    "ground_truth": "DOUBLES",
+    "raw_response": "DOUBLES",
+    "predicted": "DOUBLES",
+    "correct": true
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game3_Wide---Clip-126_t2.jpg",
+    "ground_truth": "TANK",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game3_Wide---Clip-127_t4.jpg",
+    "ground_truth": "TREY",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game4_Wide---Clip-020_t16.jpg",
+    "ground_truth": "DOUBLES",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game4_Wide---Clip-027_t2.jpg",
+    "ground_truth": "DOUBLES",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game4_Wide---Clip-037_t1.jpg",
+    "ground_truth": "DOUBLES",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game4_Wide---Clip-082_t6.jpg",
+    "ground_truth": "TANK",
+    "raw_response": "DOUBLES",
+    "predicted": "DOUBLES",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game4_Wide---Clip-059_t8.jpg",
+    "ground_truth": "TANK",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game4_Wide---Clip-124_t7.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": true
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game4_Wide---Clip-091_t4.jpg",
+    "ground_truth": "DOUBLES",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game4_Wide---Clip-099_t3.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": true
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game4_Wide---Clip-114_t8.jpg",
+    "ground_truth": "TRIO",
+    "raw_response": "TREY",
+    "predicted": "TREY",
+    "correct": false
+  },
+  {
+    "phase": "C3",
+    "model": "gemma4:26b",
+    "image": "Game4_Wide---Clip-117_t9.jpg",
+    "ground_truth": "TANK",
+    "raw_response": "TRIO",
+    "predicted": "TRIO",
+    "correct": false
+  }
+]

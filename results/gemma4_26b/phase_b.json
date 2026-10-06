@@ -1,0 +1,282 @@
+[
+  {
+    "image": "Game1_Wide---Clip-004_t14.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Black\n3. Offensive helmet color: White\n4. Defensive helmet color: Black\n5. Offensive pants color: Black\n6. Defensive pants color: Black\n7. Offense side: Left\n8. Yard line: 25\n9. Offensive players visible: 7\n10. Wide receivers: 2\n11. Running back visible: No\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game1_Wide---Clip-023_t10.jpg",
+    "off_form_gt": "EMPTY",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: black\n2. Defensive jersey color: black\n3. Offensive helmet color: silver\n4. Defensive helmet color: silver\n5. Offensive pants color: black\n6. Defensive pants color: black\n7. Offense side: left\n8. Yard line: 35\n9. Offensive players visible: 11\n10. Wide receivers: 4\n11. Running back visible: yes\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game1_Wide---Clip-053_t0.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Black\n3. Offensive helmet color: White\n4. Defensive helmet color: White\n5. Offensive pants color: Black\n6. Defensive pants color: Black\n7. Offense side: Left\n8. Yard line: 45\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: No\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game1_Wide---Clip-093_t1.jpg",
+    "off_form_gt": "TREY",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Black\n3. Offensive helmet color: White\n4. Defensive helmet color: White\n5. Offensive pants color: Black\n6. Defensive pants color: Black\n7. Offense side: Right\n8. Yard line: 42\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: Yes\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game1_Wide---Clip-110_t1.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: black\n2. Defensive jersey color: black\n3. Offensive helmet color: white\n4. Defensive helmet color: white\n5. Offensive pants color: black\n6. Defensive pants color: black\n7. Offense side: right\n8. Yard line: 35\n9. Offensive players visible: 11\n10. Wide receivers: 2\n11. Running back visible: no\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game1_Wide---Clip-119_t4.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: black\n3. Offensive helmet color: white\n4. Defensive helmet color: white\n5. Offensive pants color: black\n6. Defensive pants color: black\n7. Offense side: right\n8. Yard line: 45\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: No\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game1_Wide---Clip-008_t12.jpg",
+    "off_form_gt": "EMPTY",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: black\n3. Offensive helmet color: white\n4. Defensive helmet color: white\n5. Offensive pants color: black\n6. Defensive pants color: black\n7. Offense side: left\n8. Yard line: 30\n9. Offensive players visible: 11\n10. Wide receivers: 2\n11. Running back visible: no\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game1_Wide---Clip-123_t3.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Black\n3. Offensive helmet color: White\n4. Defensive helmet color: Black\n5. Offensive pants color: Black\n6. Defensive pants color: Black\n7. Offense side: Right\n8. Yard line: 25\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: No\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game1_Wide---Clip-068_t0.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "White",
+    "def_color_gt": "Black",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Black\n3. Offensive helmet color: White\n4. Defensive helmet color: Black\n5. Offensive pants color: White\n6. Defensive pants color: Black\n7. Offense side: Left\n8. Yard line: 45\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: Yes\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game1_Wide---Clip-096_t1.jpg",
+    "off_form_gt": "TREY",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Black\n3. Offensive helmet color: White\n4. Defensive helmet color: Black\n5. Offensive pants color: Yellow\n6. Defensive pants color: Black\n7. Offense side: Left\n8. Yard line: 20\n9. Offensive players visible: 7\n10. Wide receivers: 2\n11. Running back visible: No\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game2_Wide---Clip-003_t2.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Black",
+    "def_color_gt": "Green",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: black\n3. Offensive helmet color: white\n4. Defensive helmet color: white\n5. Offensive pants color: white\n6. Defensive pants color: black\n7. Offense side: right\n8. Yard line: 35\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: yes\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game2_Wide---Clip-009_t1.jpg",
+    "off_form_gt": "TREY",
+    "off_color_gt": "Green",
+    "def_color_gt": "Black",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: green\n3. Offensive helmet color: white\n4. Defensive helmet color: green\n5. Offensive pants color: white\n6. Defensive pants color: white\n7. Offense side: right\n8. Yard line: 35\n9. Offensive players visible: 11\n10. Wide receivers: 2\n11. Running back visible: yes\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game2_Wide---Clip-020_t6.jpg",
+    "off_form_gt": "EMPTY",
+    "off_color_gt": "Black",
+    "def_color_gt": "Green",
+    "response": "1. Offensive jersey color: neon green\n2. Defensive jersey color: black\n3. Offensive helmet color: neon green\n4. Defensive helmet color: black\n5. Offensive pants color: neon green\n6. Defensive pants color: black\n7. Offense side: left\n8. Yard line: 45\n9. Offensive players visible: 8\n10. Wide receivers: 3\n11. Running back visible: No\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game2_Wide---Clip-030_t0.jpg",
+    "off_form_gt": "TANK",
+    "off_color_gt": "Green",
+    "def_color_gt": "Black",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: green\n3. Offensive helmet color: white\n4. Defensive helmet color: white\n5. Offensive pants color: white\n6. Defensive pants color: green\n7. Offense side: right\n8. Yard line: 25\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: no\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game2_Wide---Clip-046_t7.jpg",
+    "off_form_gt": "EMPTY",
+    "off_color_gt": "Black",
+    "def_color_gt": "Green",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: dark/black\n3. Offensive helmet color: white\n4. Defensive helmet color: dark/black\n5. Offensive pants color: white\n6. Defensive pants color: white\n7. Offense side: right\n8. Yard line: 45\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: No\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game2_Wide---Clip-072_t5.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Black",
+    "def_color_gt": "Green",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: dark blue/black\n3. Offensive helmet color: white\n4. Defensive helmet color: white\n5. Offensive pants color: white\n6. Defensive pants color: white\n7. Offense side: left\n8. Yard line: 35\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: yes\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game2_Wide---Clip-124_t4.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Green",
+    "def_color_gt": "Black",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Green\n3. Offensive helmet color: White\n4. Defensive helmet color: White\n5. Offensive pants color: White\n6. Defensive pants color: Green\n7. Offense side: Right\n8. Yard line: 45\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: Yes\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game2_Wide---Clip-133_t1.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Black",
+    "def_color_gt": "Green",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Dark blue/black\n3. Offensive helmet color: White\n4. Defensive helmet color: White\n5. Offensive pants color: White\n6. Defensive pants color: White\n7. Offense side: Right\n8. Yard line: 35\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: No\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game2_Wide---Clip-151_t7.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Black",
+    "def_color_gt": "Green",
+    "response": "1. Offensive jersey color: Yellow\n2. Defensive jersey color: Black\n3. Offensive helmet color: White\n4. Defensive helmet color: White\n5. Offensive pants color: White\n6. Defensive pants color: White\n7. Offense side: Right\n8. Yard line: 35\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: Yes\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game2_Wide---Clip-157_t9.jpg",
+    "off_form_gt": "TREY",
+    "off_color_gt": "Green",
+    "def_color_gt": "Black",
+    "response": "1. Offensive jersey color: Lime green\n2. Defensive jersey color: Navy blue\n3. Offensive helmet color: Lime green\n4. Defensive helmet color: White\n5. Offensive pants color: White\n6. Defensive pants color: White\n7. Offense side: Left\n8. Yard line: 45\n9. Offensive players visible: 11\n10. Wide receivers: 2\n11. Running back visible: Yes\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game3_Wide---Clip-006_t8.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Darkblue",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: dark blue/black\n3. Offensive helmet color: dark blue/black\n4. Defensive helmet color: dark blue/black\n5. Offensive pants color: white\n6. Defensive pants color: white\n7. Offense side: left\n8. Yard line: 50\n9. Offensive players visible: 7\n10. Wide receivers: 3\n11. Running back visible: no\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game3_Wide---Clip-011_t9.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Darkblue",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: blue\n3. Offensive helmet color: white\n4. Defensive helmet color: white\n5. Offensive pants color: white\n6. Defensive pants color: blue\n7. Offense side: right\n8. Yard line: 35\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: no\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game3_Wide---Clip-019_t2.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "White",
+    "def_color_gt": "Darkblue",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: dark blue/black\n3. Offensive helmet color: white\n4. Defensive helmet color: dark blue/black\n5. Offensive pants color: white\n6. Defensive pants color: white\n7. Offense side: left\n8. Yard line: 46\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: yes\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game3_Wide---Clip-084_t7.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Darkblue",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: navy blue\n3. Offensive helmet color: white\n4. Defensive helmet color: navy blue\n5. Offensive pants color: white\n6. Defensive pants color: navy blue\n7. Offense side: right\n8. Yard line: 45\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: no\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game3_Wide---Clip-091_t1.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Darkblue",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: blue\n3. Offensive helmet color: white\n4. Defensive helmet color: white\n5. Offensive pants color: white\n6. Defensive pants color: blue\n7. Offense side: left\n8. Yard line: 35\n9. Offensive players visible: 11\n10. Wide receivers: 2\n11. Running back visible: no\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game3_Wide---Clip-103_t2.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Darkblue",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: navy blue\n3. Offensive helmet color: white\n4. Defensive helmet color: navy blue\n5. Offensive pants color: white\n6. Defensive pants color: white\n7. Offense side: left\n8. Yard line: 45\n9. Offensive players visible: 7\n10. Wide receivers: 2\n11. Running back visible: no\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game3_Wide---Clip-055_t0.jpg",
+    "off_form_gt": "EMPTY",
+    "off_color_gt": "White",
+    "def_color_gt": "Darkblue",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: dark blue/black\n3. Offensive helmet color: white\n4. Defensive helmet color: dark blue/black\n5. Offensive pants color: white\n6. Defensive pants color: white\n7. Offense side: left\n8. Yard line: 35\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: yes\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game3_Wide---Clip-119_t2.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Darkblue",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: dark blue\n3. Offensive helmet color: white\n4. Defensive helmet color: dark blue\n5. Offensive pants color: white\n6. Defensive pants color: dark blue\n7. Offense side: left\n8. Yard line: 30\n9. Offensive players visible: 6\n10. Wide receivers: 3\n11. Running back visible: no\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game3_Wide---Clip-126_t2.jpg",
+    "off_form_gt": "TANK",
+    "off_color_gt": "White",
+    "def_color_gt": "Darkblue",
+    "response": "1. Offensive jersey color: white\n2. Defensive jersey color: dark blue/black\n3. Offensive helmet color: white\n4. Defensive helmet color: dark blue/black\n5. Offensive pants color: white\n6. Defensive pants color: dark blue/black\n7. Offense side: left\n8. Yard line: 45\n9. Offensive players visible: 8\n10. Wide receivers: 3\n11. Running back visible: no\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game3_Wide---Clip-127_t4.jpg",
+    "off_form_gt": "TREY",
+    "off_color_gt": "White",
+    "def_color_gt": "Darkblue",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Dark (Black/Navy)\n3. Offensive helmet color: White\n4. Defensive helmet color: Dark (Black/Navy)\n5. Offensive pants color: White\n6. Defensive pants color: White\n7. Offense side: Left\n8. Yard line: 45\n9. Offensive players visible: 6\n10. Wide receivers: 2\n11. Running back visible: No\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game4_Wide---Clip-020_t16.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Red",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Red\n3. Offensive helmet color: White\n4. Defensive helmet color: Red\n5. Offensive pants color: Blue\n6. Defensive pants color: Red\n7. Offense side: Right\n8. Yard line: 48\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: Yes\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game4_Wide---Clip-027_t2.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "White",
+    "def_color_gt": "Red",
+    "response": "1. Offensive jersey color: Red\n2. Defensive jersey color: Light blue\n3. Offensive helmet color: Red\n4. Defensive helmet color: White\n5. Offensive pants color: Red\n6. Defensive pants color: Light blue\n7. Offense side: Left\n8. Yard line: 50\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: No\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game4_Wide---Clip-037_t1.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "White",
+    "def_color_gt": "Red",
+    "response": "1. Offensive jersey color: Red\n2. Defensive jersey color: White\n3. Offensive helmet color: Red\n4. Defensive helmet color: White\n5. Offensive pants color: Red\n6. Defensive pants color: White\n7. Offense side: Left\n8. Yard line: 45\n9. Offensive players visible: 12\n10. Wide receivers: 1\n11. Running back visible: No\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game4_Wide---Clip-082_t6.jpg",
+    "off_form_gt": "TANK",
+    "off_color_gt": "White",
+    "def_color_gt": "Red",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Red\n3. Offensive helmet color: White\n4. Defensive helmet color: Red\n5. Offensive pants color: White\n6. Defensive pants color: White\n7. Offense side: Right\n8. Yard line: 20\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: No\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game4_Wide---Clip-059_t8.jpg",
+    "off_form_gt": "TANK",
+    "off_color_gt": "White",
+    "def_color_gt": "Red",
+    "response": "1. Offensive jersey color: Red\n2. Defensive jersey color: White/Light Blue\n3. Offensive helmet color: White\n4. Defensive helmet color: White/Light Blue\n5. Offensive pants color: Red\n6. Defensive pants color: White/Light Blue\n7. Offense side: Right\n8. Yard line: 45\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: Yes\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game4_Wide---Clip-124_t7.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Red",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: red\n2. Defensive jersey color: white\n3. Offensive helmet color: red\n4. Defensive helmet color: white\n5. Offensive pants color: white\n6. Defensive pants color: white\n7. Offense side: right\n8. Yard line: 45\n9. Offensive players visible: 11\n10. Wide receivers: 2\n11. Running back visible: yes\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game4_Wide---Clip-091_t4.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Red",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: Light blue\n2. Defensive jersey color: Red\n3. Offensive helmet color: Light blue\n4. Defensive helmet color: Red\n5. Offensive pants color: Light blue\n6. Defensive pants color: Red\n7. Offense side: Right\n8. Yard line: 35\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: No\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game4_Wide---Clip-099_t3.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "White",
+    "def_color_gt": "Red",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Red\n3. Offensive helmet color: White\n4. Defensive helmet color: Red\n5. Offensive pants color: White\n6. Defensive pants color: Red\n7. Offense side: Left\n8. Yard line: 45\n9. Offensive players visible: 11\n10. Wide receivers: 3\n11. Running back visible: No\n12. QB position: Inbetween"
+  },
+  {
+    "image": "Game4_Wide---Clip-114_t8.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Red",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: light blue\n2. Defensive jersey color: red\n3. Offensive helmet color: light blue\n4. Defensive helmet color: red\n5. Offensive pants color: light blue\n6. Defensive pants color: red\n7. Offense side: left\n8. Yard line: 35\n9. Offensive players visible: 6\n10. Wide receivers: 2\n11. Running back visible: no\n12. QB position: inbetween"
+  },
+  {
+    "image": "Game4_Wide---Clip-117_t9.jpg",
+    "off_form_gt": "TANK",
+    "off_color_gt": "White",
+    "def_color_gt": "Red",
+    "response": "1. Offensive jersey color: red\n2. Defensive jersey color: light blue\n3. Offensive helmet color: red\n4. Defensive helmet color: light blue\n5. Offensive pants color: white\n6. Defensive pants color: light blue\n7. Offense side: left\n8. Yard line: 25\n9. Offensive players visible: 10\n10. Wide receivers: 1\n11. Running back visible: no\n12. QB position: inbetween"
+  }
+]

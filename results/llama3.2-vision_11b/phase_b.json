@@ -1,0 +1,282 @@
+[
+  {
+    "image": "Game1_Wide---Clip-004_t14.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: Silver.\n4. Defensive helmet color: Black.\n5. Offensive pants color: Black.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 50.\n9. Offensive players visible: 11.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: Between the hash marks.\n\nNote: The exact number of players and their positions can be subjective based on the image quality and individual interpretation. The provided answers are based on the visible players and their apparent roles in the formation."
+  },
+  {
+    "image": "Game1_Wide---Clip-023_t10.jpg",
+    "off_form_gt": "EMPTY",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: Silver.\n4. Defensive helmet color: Black.\n5. Offensive pants color: Black.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 30.\n9. Offensive players visible: 11.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: Inbetween.\n\nNote: The exact number of players and wide receivers may be difficult to determine due to the image quality and the fact that some players are partially obscured. Therefore, the answers provided are based on the visible players and may not be entirely accurate."
+  },
+  {
+    "image": "Game1_Wide---Clip-053_t0.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: Green.\n4. Defensive helmet color: Silver.\n5. Offensive pants color: Black.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 40.\n9. Offensive players visible: 11.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: Inbetween.\n\nNote: The exact number of players and their positions might be difficult to determine with certainty based on the provided image, as it is a still image and not a video. However, based on the typical formation of an American football team, the above answers are reasonable estimates. The actual number of players and their positions might be different."
+  },
+  {
+    "image": "Game1_Wide---Clip-093_t1.jpg",
+    "off_form_gt": "TREY",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: Silver.\n4. Defensive helmet color: Black.\n5. Offensive pants color: Black.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 40.\n9. Offensive players visible: 11.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: Inbetween.\n\nNote: The exact number of players and wide receivers might be difficult to determine due to the image quality and the fact that some players are partially hidden. The analysis is based on the visible players and their positions."
+  },
+  {
+    "image": "Game1_Wide---Clip-110_t1.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: Silver.\n4. Defensive helmet color: Black.\n5. Offensive pants color: Black.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 30.\n9. Offensive players visible: 17.\n10. Wide receivers: 4.\n11. Running back visible: No.\n12. QB position: Inbetween.\n\nNote: The exact number of players and wide receivers might be difficult to determine due to the image quality and the fact that some players are partially hidden. The answer provided is based on the visible players and might not be entirely accurate."
+  },
+  {
+    "image": "Game1_Wide---Clip-119_t4.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: Silver.\n4. Defensive helmet color: Black.\n5. Offensive pants color: Black.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 40.\n9. Offensive players visible: 11.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: In between.\n\nNote: The exact number of players and wide receivers might be difficult to determine due to the image quality and the fact that some players are partially hidden. The answer provided is based on the visible players and might not be entirely accurate."
+  },
+  {
+    "image": "Game1_Wide---Clip-008_t12.jpg",
+    "off_form_gt": "EMPTY",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: Silver.\n4. Defensive helmet color: Black.\n5. Offensive pants color: Black.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 40.\n9. Offensive players visible: 11.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: In between.\n\nNote: The exact number of players and their positions might be difficult to determine with certainty based on a single image, but based on the provided information, the above answers are given."
+  },
+  {
+    "image": "Game1_Wide---Clip-123_t3.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: Black.\n2. Defensive jersey color: White.\n3. Offensive helmet color: Silver.\n4. Defensive helmet color: Silver.\n5. Offensive pants color: Black.\n6. Defensive pants color: White.\n7. Offense side: Right.\n8. Yard line: 35.\n9. Offensive players visible: 11.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: In between.\n\nNote: The exact number of players and wide receivers might be difficult to determine due to the image quality and the fact that some players are partially hidden. The answer provided is based on the visible players and wide receivers."
+  },
+  {
+    "image": "Game1_Wide---Clip-068_t0.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "White",
+    "def_color_gt": "Black",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: Silver.\n4. Defensive helmet color: Silver.\n5. Offensive pants color: Black.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 50.\n9. Offensive players visible: 11.\n10. Wide receivers: 4.\n11. Running back visible: No.\n12. QB position: In between.\n\nNote: The exact number of players and wide receivers might be difficult to determine with certainty based on the provided image, as some players may be partially hidden or out of frame. However, based on the visible players and the typical formation of an American football team, the above answers are based on the most likely interpretation."
+  },
+  {
+    "image": "Game1_Wide---Clip-096_t1.jpg",
+    "off_form_gt": "TREY",
+    "off_color_gt": "Black",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: Silver.\n4. Defensive helmet color: Black.\n5. Offensive pants color: Black.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 30.\n9. Offensive players visible: 11.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: In between.\n\nNote: The exact number of players and wide receivers might be difficult to determine with certainty based on the provided image, as some players may be partially hidden or out of frame. However, based on the visible players and the typical formation of an American football team, the answers provided are based on the most likely interpretation of the image."
+  },
+  {
+    "image": "Game2_Wide---Clip-003_t2.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Black",
+    "def_color_gt": "Green",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: White.\n4. Defensive helmet color: Black.\n5. Offensive pants color: White.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 30.\n9. Offensive players visible: 11.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: In between."
+  },
+  {
+    "image": "Game2_Wide---Clip-009_t1.jpg",
+    "off_form_gt": "TREY",
+    "off_color_gt": "Green",
+    "def_color_gt": "Black",
+    "response": "1. Offensive jersey color: Green.\n2. Defensive jersey color: White.\n3. Offensive helmet color: Green.\n4. Defensive helmet color: White.\n5. Offensive pants color: Green.\n6. Defensive pants color: White.\n7. Offense side: Right.\n8. Yard line: 40.\n9. Offensive players visible: 10.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: In between."
+  },
+  {
+    "image": "Game2_Wide---Clip-020_t6.jpg",
+    "off_form_gt": "EMPTY",
+    "off_color_gt": "Black",
+    "def_color_gt": "Green",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: White.\n4. Defensive helmet color: Black.\n5. Offensive pants color: White.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 50.\n9. Offensive players visible: 9.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: In between."
+  },
+  {
+    "image": "Game2_Wide---Clip-030_t0.jpg",
+    "off_form_gt": "TANK",
+    "off_color_gt": "Green",
+    "def_color_gt": "Black",
+    "response": "1. Offensive jersey color: Green.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: White.\n4. Defensive helmet color: White.\n5. Offensive pants color: White.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 30.\n9. Offensive players visible: 11.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: In between."
+  },
+  {
+    "image": "Game2_Wide---Clip-046_t7.jpg",
+    "off_form_gt": "EMPTY",
+    "off_color_gt": "Black",
+    "def_color_gt": "Green",
+    "response": "1. Offensive jersey color: Green.\n2. Defensive jersey color: Black.\n3. Offensive helmet color: White.\n4. Defensive helmet color: Black.\n5. Offensive pants color: White.\n6. Defensive pants color: Black.\n7. Offense side: Right.\n8. Yard line: 50.\n9. Offensive players visible: 7.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: In between."
+  },
+  {
+    "image": "Game2_Wide---Clip-072_t5.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Black",
+    "def_color_gt": "Green",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Green\n3. Offensive helmet color: White\n4. Defensive helmet color: Green\n5. Offensive pants color: White\n6. Defensive pants color: Green\n7. Offense side: Right\n8. Yard line: 30\n9. Offensive players visible: 11\n10. Wide receivers: 2\n11. Running back visible: No\n12. QB position: In between\n\nNote: The answers are based on the visual information provided in the image and may not be entirely accurate without further context or information."
+  },
+  {
+    "image": "Game2_Wide---Clip-124_t4.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Green",
+    "def_color_gt": "Black",
+    "response": "1. Offensive jersey color: Green\n2. Defensive jersey color: White\n3. Offensive helmet color: Green\n4. Defensive helmet color: White\n5. Offensive pants color: Green\n6. Defensive pants color: White\n7. Offense side: Right\n8. Yard line: 50\n9. Offensive players visible: 7\n10. Wide receivers: 2\n11. Running back visible: No\n12. QB position: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the low quality of the image."
+  },
+  {
+    "image": "Game2_Wide---Clip-133_t1.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Black",
+    "def_color_gt": "Green",
+    "response": "1. Offensive jersey color: Green.\n2. Defensive jersey color: Navy.\n3. Offensive helmet color: White.\n4. Defensive helmet color: White.\n5. Offensive pants color: White.\n6. Defensive pants color: Navy.\n7. Offense side: Right.\n8. Yard line: 30.\n9. Offensive players visible: 11.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: In between."
+  },
+  {
+    "image": "Game2_Wide---Clip-151_t7.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Black",
+    "def_color_gt": "Green",
+    "response": "1. Offensive jersey color: Green\n2. Defensive jersey color: White\n3. Offensive helmet color: Green\n4. Defensive helmet color: White\n5. Offensive pants color: Green\n6. Defensive pants color: White\n7. Offense side: Right\n8. Yard line: 40\n9. Offensive players visible: 7\n10. Wide receivers: 2\n11. Running back visible: No\n12. QB position: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the low quality of the image."
+  },
+  {
+    "image": "Game2_Wide---Clip-157_t9.jpg",
+    "off_form_gt": "TREY",
+    "off_color_gt": "Green",
+    "def_color_gt": "Black",
+    "response": "1. Offensive jersey color: Green\n2. Defensive jersey color: White\n3. Offensive helmet color: Green\n4. Defensive helmet color: White\n5. Offensive pants color: White\n6. Defensive pants color: White\n7. Offense side: Right\n8. Yard line: 50\n9. Offensive players visible: 10\n10. Wide receivers: 2\n11. Running back visible: No\n12. QB position: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the low quality of the image."
+  },
+  {
+    "image": "Game3_Wide---Clip-006_t8.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Darkblue",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Navy Blue\n3. Offensive helmet color: Navy Blue\n4. Defensive helmet color: White\n5. Offensive pants color: White\n6. Defensive pants color: Navy Blue\n7. Offense side: Right\n8. Yard line: 50\n9. Offensive players visible: 10\n10. Wide receivers: 2\n11. Running back visible: No\n12. QB position: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the low quality of the image."
+  },
+  {
+    "image": "Game3_Wide---Clip-011_t9.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Darkblue",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Blue.\n3. Offensive helmet color: Purple.\n4. Defensive helmet color: White.\n5. Offensive pants color: White.\n6. Defensive pants color: Blue.\n7. Offense side: Right.\n8. Yard line: 30.\n9. Offensive players visible: 10.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: In between."
+  },
+  {
+    "image": "Game3_Wide---Clip-019_t2.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "White",
+    "def_color_gt": "Darkblue",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Navy Blue\n3. Offensive helmet color: White\n4. Defensive helmet color: Navy Blue\n5. Offensive pants color: White\n6. Defensive pants color: Navy Blue\n7. Offense side: Right\n8. Yard line: 50\n9. Offensive players visible: 10\n10. Wide receivers: 2\n11. Running back visible: No\n12. QB position: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the limited information and potential errors in the image."
+  },
+  {
+    "image": "Game3_Wide---Clip-084_t7.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Darkblue",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: Navy blue.\n2. Defensive jersey color: White.\n3. Offensive helmet color: Black.\n4. Defensive helmet color: White.\n5. Offensive pants color: White.\n6. Defensive pants color: White.\n7. Offense side: Right.\n8. Yard line: 50.\n9. Offensive players visible: 10.\n10. Wide receivers: 2.\n11. Running back visible: No.\n12. QB position: In between."
+  },
+  {
+    "image": "Game3_Wide---Clip-091_t1.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Darkblue",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Blue\n3. Offensive helmet color: White\n4. Defensive helmet color: Blue\n5. Offensive pants color: White\n6. Defensive pants\u00a0: Blue\n7. Offense side: Right\n8. Yard line: 40\n9. Offensive players visible: 7\n10. Wide\u00a0: 2\n11. Running\u00a0: No\n12.\u00a0: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the low quality of the image."
+  },
+  {
+    "image": "Game3_Wide---Clip-103_t2.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Darkblue",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Navy Blue\n3. Offensive helmet color: White\n4. Defensive helmet color: Navy Blue\n5. Offensive pants color: White\n6. Defensive pants color: Navy Blue\n7. Offense side: Right\n8. Yard line: 50\n9. Offensive players visible: 10\n10. Wide receivers: 2\n11. Running\u00a0: No\n12.\u00a0: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the low quality of the image."
+  },
+  {
+    "image": "Game3_Wide---Clip-055_t0.jpg",
+    "off_form_gt": "EMPTY",
+    "off_color_gt": "White",
+    "def_color_gt": "Darkblue",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Navy\n3. Offensive helmet color: White\n4. Defensive helmet color: Navy\n5. Offensive pants color: White\n6. Defensive pants color: Navy\n7. Offense side: Right\n8. Yard line: 40\n9. Offensive players visible: 10\n10. Wide receivers: 2\n11. Running\u00a0: No\n12. QB position: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the low quality of the image."
+  },
+  {
+    "image": "Game3_Wide---Clip-119_t2.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Darkblue",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White.\n2. Defensive jersey color: Blue.\n3. Offensive helmet color: Blue.\n4. Defensive helmet color: White.\n5. Offensive pants color: White.\n6. Defensive pants color: Blue.\n7. Offense side: Right.\n8. Yard line: 30.\n9. Offensive players visible: 10.\n10. Wide receivers: 2.\n11. Running\u00a0: No.\n12. QB position: In between."
+  },
+  {
+    "image": "Game3_Wide---Clip-126_t2.jpg",
+    "off_form_gt": "TANK",
+    "off_color_gt": "White",
+    "def_color_gt": "Darkblue",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Navy Blue\n3. Offensive helmet color: Black\n4. Defensive helmet color: White\n5. Offensive pants color: White\n6. Defensive pants\u00a0: Navy Blue\n7. Offense side: Right\n8. Yard line: 50\n9. Offensive players visible: 11\n10. Wide\u00a0: 2\n11. Running\u00a0: No\n12.\u00a0: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the limited information."
+  },
+  {
+    "image": "Game3_Wide---Clip-127_t4.jpg",
+    "off_form_gt": "TREY",
+    "off_color_gt": "White",
+    "def_color_gt": "Darkblue",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Navy\n3. Offensive helmet color: White\n4. Defensive helmet color: Navy\n5. Offensive pants color: White\n6. Defensive pants color: Navy\n7. Offense side: Right\n8. Yard line: 50\n9. Offensive players visible: 10\n10. Wide receivers: 2\n11. Running\u00a0: No\n12. QB position: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the low quality of the image."
+  },
+  {
+    "image": "Game4_Wide---Clip-020_t16.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Red",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: Red\n2. Defensive jersey color: Blue\n3. Offensive helmet color: Red\n4. Defensive helmet color: White\n5. Offensive pants color: Red\n6. Defensive pants color: Blue\n7. Offense side: Right\n8. Yard line: 40\n9. Offensive players visible: 9\n10. Wide receivers: 2\n11. Running\u00a0: No\n12.\u00a0: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the limited information and potential errors in the image."
+  },
+  {
+    "image": "Game4_Wide---Clip-027_t2.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "White",
+    "def_color_gt": "Red",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Light blue\n3. Offensive helmet color: White\n4. Defensive helmet color: Light blue\n5. Offensive pants color: White\n6. Defensive pants color: Light blue\n7. Offense side: Right\n8. Yard line: 50\n9. Offensive players visible: 10\n10. Wide receivers: 2\n11. Running\u00a0: No\n12.\u00a0: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the limited information and potential errors in the image."
+  },
+  {
+    "image": "Game4_Wide---Clip-037_t1.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "White",
+    "def_color_gt": "Red",
+    "response": "1. Offensive jersey color: Red\n2. Defensive jersey color: White\n3. Offensive helmet color: Red\n4. Defensive helmet color: White\n5. Offensive pants color: Red\n6. Defensive pants\u00a0: White\n7. Offense side: Right\n8. Yard line: 40\n9. Offensive players visible: 20\n10. Wide\u00a0: 4\n11. Running\u00a0: No\n12.\u00a0: In between\n\nNote: The answers are based on the provided image and may not be entirely accurate due to the limited information."
+  },
+  {
+    "image": "Game4_Wide---Clip-082_t6.jpg",
+    "off_form_gt": "TANK",
+    "off_color_gt": "White",
+    "def_color_gt": "Red",
+    "response": "1. Offensive jersey color: Red\n2. Defensive jersey color: White\n3. Offensive helmet color: Red\n4. Defensive helmet color: White\n5. Offensive pants color: Red\n6. Defensive pants color: White\n7. Offense side: Right\n8. Yard line: 50\n9. Offensive players visible: 20\n10. Wide receivers: 4\n11. Running\u00a0: No\n12. QB position: In between\n\nNote: The exact number of players and wide\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:\u00a0:"
+  },
+  {
+    "image": "Game4_Wide---Clip-059_t8.jpg",
+    "off_form_gt": "TANK",
+    "off_color_gt": "White",
+    "def_color_gt": "Red",
+    "response": "1. Offensive jersey color: Red\n2. Defensive jersey color: Light Blue\n3. Offensive helmet color: Red\n4. Defensive helmet color: White\n5. Offensive pants color: Red\n6. Defensive pants\u00a0: White\n7. Offense side: Right\n8. Yard line: 50\n9. \u00a0Offensive players visible: 10\n10. \u00a0Wide\u00a0\u00a0: 4\n11. \u00a0Running\u00a0\u00a0: No\n12. \u00a0Q\u00a0: In"
+  },
+  {
+    "image": "Game4_Wide---Clip-124_t7.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Red",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: Red\n2. Defensive jersey color: White\n3. Offensive helmet color: Red\n4. Defensive helmet color: White\n5. Offensive pants color: Red\n6. Defensive pants\u00a0: White\n7. Offense side: Right\n8. Yard line: 40\n9. Offensive players visible: 11\n10. Wide\u00a0: 4\n11. Running\u00a0: No\n12.\u00a0: In\u00a0\u00a0\u2026\u00a0:\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026"
+  },
+  {
+    "image": "Game4_Wide---Clip-091_t4.jpg",
+    "off_form_gt": "DOUBLES",
+    "off_color_gt": "Red",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: Red\n2. Defensive jersey color: White\n3. Offensive helmet color: Red\n4. Defensive helmet color: White\n5. Offensive pants color: Red\n6. Defensive pants\u00a0: White\n7. Offense side: Right\n8. Yard line: 40\n9. Offensive players visible: 10\n10. Wide\u00a0: 4\n11. Running\u00a0: No\n12.\u00a0: In\u00a0\u00a0\u2026\u00a0:\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026\u00a0\u2026"
+  },
+  {
+    "image": "Game4_Wide---Clip-099_t3.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "White",
+    "def_color_gt": "Red",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Red\n3. Offensive helmet color: White\n4. Defensive helmet color: Red\n5. Offensive pants color: White\n6. Defensive pants\u00a0: Red\n7. Offense side: Right\n8. Yard\u00a0: 50\n9. \u00a0: 10\n10. \u00a0: 2\n11. \u00a0: No\n12. \u00a0: In between\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: \u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1"
+  },
+  {
+    "image": "Game4_Wide---Clip-114_t8.jpg",
+    "off_form_gt": "TRIO",
+    "off_color_gt": "Red",
+    "def_color_gt": "White",
+    "response": "1. Offensive jersey color: White\n2. Defensive jersey color: Red\n3. Offensive helmet color: White\n4. Defensive helmet color: Red\n5. Offensive pants color: White\n6. Defensive pants\u00a0: Red\n7. Offense side: Right\n8. Yard\u00a0: 30\n9. \u00a0: 10\n10. \u00a0: 3\n11. \u00a0: No\n12. \u00a0: In between\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: \u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1"
+  },
+  {
+    "image": "Game4_Wide---Clip-117_t9.jpg",
+    "off_form_gt": "TANK",
+    "off_color_gt": "White",
+    "def_color_gt": "Red",
+    "response": "1. Offensive jersey color: Red\n2. Defensive jersey color: White\n3. Offensive helmet color: Red\n4. Defensive helmet color: White\n5. Offensive pants color: Red\n6. Defensive pants\u00a0: White\n7. Offense side: Right\n8. Yard\u00a0: 20\n9. \u00a0: 10\n10. \u00a0: 3\n11. \u00a0: No\n12. \u00a0: In between\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1\n\u00a0: 1"
+  }
+]

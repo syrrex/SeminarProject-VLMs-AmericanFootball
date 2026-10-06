@@ -1,0 +1,37 @@
+[
+  {
+    "id": "A1",
+    "response": "Here's a brief explanation of each formation:\n\n*   **EMPTY**: A formation with no tight ends, one running back, and four wide receivers. The quarterback is usually the only player lined up in the backfield.\n*   **TRIO**: A formation with three wide receivers, one running back, and one tight end. The tight end is often used as a blocker or receiver.\n*   **DOUBLES**: A formation with two tight ends, one running back, and three wide receivers. This formation is often used to create mismatches and exploit defensive weaknesses.\n*   **TREY**: A formation with three wide receivers, one running back, and one tight end. The tight end is often used as a blocker or receiver.\n*   **TANK**: A formation with one running back, one tight end, and four wide receivers. This formation is often used to create mismatches and exploit defensive weaknesses.",
+    "correct": null
+  },
+  {
+    "id": "A2",
+    "response": "EMPTY",
+    "correct": true
+  },
+  {
+    "id": "A3",
+    "response": "TANK, DOUBLES",
+    "correct": false
+  },
+  {
+    "id": "A4",
+    "response": "TREY",
+    "correct": false
+  },
+  {
+    "id": "A5",
+    "response": "TREY",
+    "correct": false
+  },
+  {
+    "id": "A6",
+    "response": "I'm sorry, but I don't have information on the key structural differences between the TRIO and TREY formations in American football.",
+    "correct": null
+  },
+  {
+    "id": "A7",
+    "response": "In American football, the key structural difference between the DOUBLES and TANK offensive formations is the alignment of the tight ends. In the DOUBLES formation, the tight ends line up on either side of the tackles, while in the TANK formation, the tight ends line up on the strong side of the formation, often with a fullback or extra tight end. This difference affects the blocking scheme and play-action possibilities.",
+    "correct": null
+  }
+]
