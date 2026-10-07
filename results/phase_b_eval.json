@@ -13,6 +13,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "",
+    "wide_receivers": false,
+    "wide_receivers_raw": "",
+    "rb_visible": false,
+    "rb_visible_raw": "",
     "qb_position": false
   },
   {
@@ -29,6 +33,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -45,6 +53,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -61,6 +73,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "",
+    "wide_receivers": false,
+    "wide_receivers_raw": "",
+    "rb_visible": false,
+    "rb_visible_raw": "",
     "qb_position": false
   },
   {
@@ -77,6 +93,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "no",
     "qb_position": true
   },
   {
@@ -93,6 +113,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -109,6 +133,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -125,6 +153,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "1",
+    "rb_visible": false,
+    "rb_visible_raw": "no",
     "qb_position": true
   },
   {
@@ -141,6 +173,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -157,6 +193,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -173,6 +213,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -189,6 +233,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "1",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -205,6 +253,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "",
+    "wide_receivers": false,
+    "wide_receivers_raw": "",
+    "rb_visible": false,
+    "rb_visible_raw": "",
     "qb_position": false
   },
   {
@@ -221,6 +273,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -237,6 +293,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -253,6 +313,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "no",
     "qb_position": false
   },
   {
@@ -269,6 +333,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "",
+    "wide_receivers": false,
+    "wide_receivers_raw": "",
+    "rb_visible": false,
+    "rb_visible_raw": "",
     "qb_position": false
   },
   {
@@ -285,6 +353,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "",
+    "wide_receivers": false,
+    "wide_receivers_raw": "",
+    "rb_visible": false,
+    "rb_visible_raw": "",
     "qb_position": false
   },
   {
@@ -301,6 +373,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "",
+    "wide_receivers": false,
+    "wide_receivers_raw": "",
+    "rb_visible": false,
+    "rb_visible_raw": "",
     "qb_position": false
   },
   {
@@ -317,6 +393,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": true
   },
   {
@@ -333,6 +413,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "1",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -349,6 +433,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -365,6 +453,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -381,6 +473,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": true
   },
   {
@@ -397,6 +493,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "",
+    "wide_receivers": false,
+    "wide_receivers_raw": "",
+    "rb_visible": false,
+    "rb_visible_raw": "",
     "qb_position": false
   },
   {
@@ -413,6 +513,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "1",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -429,6 +533,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "",
+    "wide_receivers": false,
+    "wide_receivers_raw": "",
+    "rb_visible": false,
+    "rb_visible_raw": "",
     "qb_position": false
   },
   {
@@ -445,6 +553,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": true
   },
   {
@@ -461,6 +573,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "no",
     "qb_position": true
   },
   {
@@ -477,6 +593,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "1",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": true
   },
   {
@@ -493,6 +613,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "",
+    "wide_receivers": false,
+    "wide_receivers_raw": "",
+    "rb_visible": false,
+    "rb_visible_raw": "",
     "qb_position": false
   },
   {
@@ -509,6 +633,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "",
+    "wide_receivers": false,
+    "wide_receivers_raw": "",
+    "rb_visible": false,
+    "rb_visible_raw": "",
     "qb_position": false
   },
   {
@@ -525,6 +653,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "0",
+    "rb_visible": false,
+    "rb_visible_raw": "no",
     "qb_position": false
   },
   {
@@ -541,6 +673,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "no",
     "qb_position": false
   },
   {
@@ -557,6 +693,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "",
+    "wide_receivers": false,
+    "wide_receivers_raw": "",
+    "rb_visible": false,
+    "rb_visible_raw": "",
     "qb_position": false
   },
   {
@@ -573,6 +713,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "no",
     "qb_position": false
   },
   {
@@ -589,6 +733,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -605,6 +753,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "",
+    "wide_receivers": false,
+    "wide_receivers_raw": "",
+    "rb_visible": false,
+    "rb_visible_raw": "",
     "qb_position": false
   },
   {
@@ -621,6 +773,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -637,6 +793,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "yes",
     "qb_position": false
   },
   {
@@ -653,6 +813,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": true
   },
   {
@@ -669,6 +833,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": false,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -685,6 +853,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -701,6 +873,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": true,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -717,6 +893,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": true
   },
   {
@@ -733,6 +913,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -749,6 +933,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": false,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -765,6 +953,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": true
   },
   {
@@ -781,6 +973,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -797,6 +993,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": true,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -813,6 +1013,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -829,6 +1033,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": true,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -845,6 +1053,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": false,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -861,6 +1073,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": true,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -877,6 +1093,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": false,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -893,6 +1113,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -909,6 +1133,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -925,6 +1153,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -941,6 +1173,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -957,6 +1193,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": true,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": true
   },
   {
@@ -973,6 +1213,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -989,6 +1233,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1005,6 +1253,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1021,6 +1273,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": true
   },
   {
@@ -1037,6 +1293,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1053,6 +1313,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1069,6 +1333,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": false,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1085,6 +1353,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": true
   },
   {
@@ -1101,6 +1373,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": true,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": true
   },
   {
@@ -1117,6 +1393,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": true,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": true
   },
   {
@@ -1133,6 +1413,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1149,6 +1433,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1165,6 +1453,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1181,6 +1473,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": true,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1197,6 +1493,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": true,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1213,6 +1513,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1229,6 +1533,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1245,6 +1553,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1261,6 +1573,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1277,6 +1593,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": true,
+    "wide_receivers_raw": "3",
+    "rb_visible": true,
+    "rb_visible_raw": "Yes",
     "qb_position": false
   },
   {
@@ -1293,6 +1613,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": true
   },
   {
@@ -1309,6 +1633,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": true,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1325,6 +1653,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1341,6 +1673,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1357,6 +1693,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "17.",
+    "wide_receivers": true,
+    "wide_receivers_raw": "4.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": true
   },
   {
@@ -1373,6 +1713,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1389,6 +1733,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": true,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1405,6 +1753,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": true
   },
   {
@@ -1421,6 +1773,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11.",
+    "wide_receivers": true,
+    "wide_receivers_raw": "4.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1437,6 +1793,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1453,6 +1813,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1469,6 +1833,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "10.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1485,6 +1853,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "9.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": true,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1501,6 +1873,10 @@
     "off_pants": true,
     "def_pants": true,
     "off_players_raw": "11.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1517,6 +1893,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "7.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": true,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1533,6 +1913,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1549,6 +1933,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "7",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1565,6 +1953,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "11.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1581,6 +1973,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "7",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1597,6 +1993,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": true
   },
   {
@@ -1613,6 +2013,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1629,6 +2033,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "10.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": false
   },
   {
@@ -1645,6 +2053,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1661,6 +2073,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "10.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": true
   },
   {
@@ -1677,6 +2093,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "7",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1693,6 +2113,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1709,6 +2133,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": true,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1725,6 +2153,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "10.",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2.",
+    "rb_visible": false,
+    "rb_visible_raw": "No.",
     "qb_position": true
   },
   {
@@ -1741,6 +2173,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": true
   },
   {
@@ -1757,6 +2193,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": true
   },
   {
@@ -1773,6 +2213,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "9",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1789,6 +2233,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1805,6 +2253,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "20",
+    "wide_receivers": true,
+    "wide_receivers_raw": "4",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1821,6 +2273,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "20",
+    "wide_receivers": false,
+    "wide_receivers_raw": "4",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1837,6 +2293,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "4",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1853,6 +2313,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "11",
+    "wide_receivers": true,
+    "wide_receivers_raw": "4",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1869,6 +2333,10 @@
     "off_pants": true,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": true,
+    "wide_receivers_raw": "4",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1885,6 +2353,10 @@
     "off_pants": false,
     "def_pants": true,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "2",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1901,6 +2373,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": false,
+    "wide_receivers_raw": "3",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   },
   {
@@ -1917,6 +2393,10 @@
     "off_pants": false,
     "def_pants": false,
     "off_players_raw": "10",
+    "wide_receivers": true,
+    "wide_receivers_raw": "3",
+    "rb_visible": false,
+    "rb_visible_raw": "No",
     "qb_position": false
   }
 ]
