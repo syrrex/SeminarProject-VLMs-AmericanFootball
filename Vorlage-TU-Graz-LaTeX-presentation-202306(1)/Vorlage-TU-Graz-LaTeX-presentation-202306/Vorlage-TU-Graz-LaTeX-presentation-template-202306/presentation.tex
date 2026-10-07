@@ -3,7 +3,19 @@
 \PassOptionsToPackage{table}{xcolor}
 
 \documentclass[9pt,aspectratio=169]{beamer}
-\setbeameroption{show notes on second screen=right}
+
+% ---------------------------------------------------------------------
+% Toggle for speaker notes. Set to \shownotestrue for your OWN rehearsal
+% copy (produces a wide slide+notes page per frame -- only useful with
+% presenter software like pympress/pdfpc, or just for reading at your
+% desk). Set to \shownotesfalse -- and RECOMPILE -- before presenting to
+% a projector/audience, otherwise the notes are visible to everyone.
+% ---------------------------------------------------------------------
+\newif\ifshownotes
+\shownotestrue
+\ifshownotes
+  \setbeameroption{show notes on second screen=right}
+\fi
 %% Choose aspect ratio and other standard options:
 % [aspectratio=169] % 16:9 (default)
 % [aspectratio=43]  % 4:3
