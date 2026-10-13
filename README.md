@@ -108,7 +108,7 @@ The confusion matrices show where the models fail. Most predictions land in a si
 
 - Few-shot prompting with corrected examples, to override the models' own interpretation of the formation names
 - Fine-tuning on a larger, multi-league dataset
-- A dedicated computer-vision pipeline. This is the approach of my master's thesis: detect the players, transform the field to a bird's-eye view, then assign the formation with a rule-based classifier. [Link to master's thesis]
+- A dedicated computer-vision pipeline. This is the approach of my master's thesis: detect the players, transform the field to a bird's-eye view, then assign the formation with a rule-based classifier.
 
 ## Run it yourself
 
