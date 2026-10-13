@@ -14,3 +14,6 @@ __pycache__/
 *.snm
 *.vrb
 *.synctex.gz
+
+# Claude Code local settings
+.claude/
